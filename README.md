@@ -1,5 +1,5 @@
 
-### tweesupp
+### tweetsupp
 ## Primarily, An unsupervised learning model using Twitter API and Tweepy that lets you analyse and determine polarity of views of users on a trending topic through keyword analysis of tweets. On a broader scope, this might help companies engaging with their customers on a better note.
 
 So, When the model is actually performed against an example, say: "Dhoni"
